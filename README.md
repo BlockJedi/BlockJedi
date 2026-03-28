@@ -15,7 +15,6 @@
   - 🪐 [Virtua](https://virtua.com)
 - 🌱 Currently learning: **Go**
 - 💬 Ask me about: `Solidity`, `Ethereum`, `Polygon`, `Solana`, `Cardano`
-- 📫 Reach me at: **hussammustafa786@gmail.com**
 - ⚡ Fun fact: *I think I’m funny 😄*
 
 ---
