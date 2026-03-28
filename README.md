@@ -49,14 +49,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-- [![LinkedIn](https://img.icons8.com/color/20/linkedin.png) LinkedIn](https://www.linkedin.com/in/hussam-mustafa-472341114/)
-- [<img src="https://img.icons8.com/ios-filled/20/000000/x.png"/> BlockJedi](https://x.com/web3_jedi)
-- 📬 **Email:** hussam.mustafa112@outlook.com
-
----
-
 ### ☕ Support My Work
 
 <a href="https://www.buymeacoffee.com/hussammustafa" target="_blank">
